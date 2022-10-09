@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-import numpy as np 
+import numpy as np         #Мой комментарий!
 
 MATCH_COST = 0
 INSERT_COST = 1
